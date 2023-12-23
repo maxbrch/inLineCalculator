@@ -1,0 +1,11 @@
+﻿  TaskManager.cpp
+E:\work\sendbox\c++\TaskManager\TaskManager\TaskManager.cpp(12,14): error C2039: 'getline': is not a member of 'std'
+  E:\progams\Visual Studio\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  see declaration of 'std'
+  
+E:\work\sendbox\c++\TaskManager\TaskManager\TaskManager.cpp(12,14): error C3861: 'getline': identifier not found
+E:\work\sendbox\c++\TaskManager\TaskManager\TaskManager.cpp(17,18): error C2039: 'getline': is not a member of 'std'
+  E:\progams\Visual Studio\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  see declaration of 'std'
+  
+E:\work\sendbox\c++\TaskManager\TaskManager\TaskManager.cpp(17,18): error C3861: 'getline': identifier not found
